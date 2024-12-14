@@ -1,4 +1,7 @@
+# REGISTERED
+## First Batch (50) :
 ```
+
 Username: StormBlaze_01
 Password: Blaze@Storm2024
 
@@ -149,6 +152,10 @@ Password: Wolf@Iron77
 Username: CosmicKnight22
 Password: Knight@Cosmic44
 
+```
+# UNREGISTERED
+## Second Batch (50) :
+```
 Username: ThunderFlame99
 Password: Flame@Thunder88
 
