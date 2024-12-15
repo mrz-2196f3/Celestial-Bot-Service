@@ -1,252 +1,252 @@
 # REGISTERED
 ## First Batch (50) :
 
-1.
+- [x] 1.
 ```
 Username: StormBlaze_01
 Password: Blaze@Storm2024
 ```
-2.
+- [x] 2.
 ```
-Username: DragonFireXx
+Username: DragonFireXx245
 Password: Fire@Dragon88
 ```
-3.
+- [x] 3.
 ```
-Username: NightRider47
+Username: NightRider4703
 Password: Rider@Night2024
 ```
-4.
+- [x] 4.
 ```
-Username: ThunderWolf99
+Username: ThunderWolf9975
 Password: Wolf@Thunder12
 ```
-5.
+- [x] 5.
 ```
 Username: CosmicShade_32
 Password: Shade@Cosmic11
 ```
-6.
+- [x] 6.
 ```
-Username: FrostDragon_24
+Username: FrostDragon_2472
 Password: Dragon@Frost89
 ```
-7.
+- [x] 7.
 ```
-Username: ShadowPhoenix56
+Username: ShadowPhoenix563
 Password: Phoenix@Shadow22
 ```
-8.
+- [x] 8.
 ```
 Username: SolarBlaze77
 Password: Blaze@Solar44
 ```
-9.
+- [x] 9.
 ```
 Username: VortexKnight_88
 Password: Knight@Vortex33
 ```
-10.
+- [X] 10.
 ```
 Username: MysticFlare_99
 Password: Flare@Mystic56
 ```
-11.
+- [ ] 11.
 ```
 Username: IceRider22
 Password: Rider@Ice77
 ```
-12.
+- [ ] 12.
 ```
 Username: CrystalViperX
 Password: Viper@Crystal44
 ```
-13.
+- [ ] 13.
 ```
 Username: ElectricWolf_33
 Password: Wolf@Electric55
 ```
-14.
+- [ ] 14.
 ```
 Username: LunarDragon99
 Password: Dragon@Lunar22
 ```
-15.
+- [ ] 15.
 ```
 Username: PhantomRaven66
 Password: Raven@Phantom11
 ```
-16.
+- [ ] 16.
 ```
 Username: BlazeStorm_11
 Password: Storm@Blaze44
 ```
-17.
+- [ ] 17.
 ```
 Username: RadiantKnight88
 Password: Knight@Radiant22
 ```
-18.
+- [ ] 18.
 ```
 Username: ThunderVortex_34
 Password: Vortex@Thunder77
 ```
-19.
+- [ ] 19.
 ```
 Username: EmberShadow99
 Password: Shadow@Ember88
 ```
-20.
+- [ ] 20.
 ```
 Username: CrystalWolfXx
 Password: Wolf@Crystal55
 ```
-21.
+- [ ] 21.
 ```
 Username: SolarVortex44
 Password: Vortex@Solar77
 ```
-22.
+- [ ] 22.
 ```
 Username: GalacticStorm55
 Password: Storm@Galactic22
 ```
-23.
+- [ ] 23.
 ```
 Username: IronKnight_66
 Password: Knight@Iron88
 ```
-24.
+- [ ] 24.
 ```
 Username: FrostFlame99
 Password: Flame@Frost11
 ```
-25.
+- [ ] 25.
 ```
 Username: DragonThunder_12
 Password: Thunder@Dragon44
 ```
-26.
+- [ ] 26.
 ```
 Username: ViperKnight33
 Password: Knight@Viper88
 ```
-27.
+- [ ] 27.
 ```
 Username: ShadowFlareX
 Password: Flare@Shadow22
 ```
-28.
+- [ ] 28.
 ```
 Username: LightningPhoenix44
 Password: Phoenix@Lightning55
 ```
-29.
+- [ ] 29.
 ```
 Username: EmberRider56
 Password: Rider@Ember99
 ```
-30.
+- [ ] 30.
 ```
 Username: FrostPhoenix88
 Password: Phoenix@Frost22
 ```
-31.
+- [ ] 31.
 ```
 Username: SolarDragonXx
 Password: Dragon@Solar44
 ```
-32.
+- [ ] 32.
 ```
 Username: GalacticBlade_11
 Password: Blade@Galactic33
 ```
-33.
+- [ ] 33.
 ```
 Username: ShadowRaven44
 Password: Raven@Shadow66
 ```
-34.
+- [ ] 34.
 ```
 Username: CosmicVortex77
 Password: Vortex@Cosmic22
 ```
-35.
+- [ ] 35.
 ```
 Username: IceStormXx
 Password: Storm@Ice55
 ```
-36.
+- [ ] 36.
 ```
 Username: EmberDragon99
 Password: Dragon@Ember22
 ```
-37.
+- [ ] 37.
 ```
 Username: PhantomWolfX
 Password: Wolf@Phantom44
 ```
-38.
+- [ ] 38.
 ```
 Username: SolarRider_22
 Password: Rider@Solar11
 ```
-39.
+- [ ] 39.
 ```
 Username: BlazeKnightXx
 Password: Knight@Blaze33
 ```
-40.
+- [ ] 40.
 ```
 Username: ThunderDragon44
 Password: Dragon@Thunder22
 ```
-41.
+- [ ] 41.
 ```
 Username: CrystalFlare_33
 Password: Flare@Crystal88
 ```
-42.
+- [ ] 42.
 ```
 Username: LunarVortexX
 Password: Vortex@Lunar77
 ```
-43.
+- [ ] 43.
 ```
 Username: MysticWolf_22
 Password: Wolf@Mystic99
 ```
-44.
+- [ ] 44.
 ```
 Username: RadiantFlareXx
 Password: Flare@Radiant55
 ```
-45.
+- [ ] 45.
 ```
 Username: LightningDragon44
 Password: Dragon@Lightning11
 ```
-46.
+- [ ] 46.
 ```
 Username: StormPhoenix22
 Password: Phoenix@Storm99
 ```
-47.
+- [ ] 47.
 ```
 Username: NightViper88
 Password: Viper@Night22
 ```
-48.
+- [ ] 48.
 ```
 Username: CrystalStormX
 Password: Storm@Crystal44
 ```
-49.
+- [ ] 49.
 ```
 Username: IronWolfXx
 Password: Wolf@Iron77
 ```
-50.
+- [ ] 50.
 ```
 Username: CosmicKnight22
 Password: Knight@Cosmic44
